@@ -39,4 +39,24 @@ function product(id) {
         alert("Tu Monto a Pagar Son: $" + precioProducto);
     }
 }
+//Arrancan los eventos, sirven en el comprar de las tarjetas.
+let button = document.getElementById("compra");
+button.addEventListener("click", respuestaClick);
+function respuestaClick() {
+    console.log("Primer respuesta");
+    alert("Seleccionaste la compra de cafe con leche.")
 
+let button2 = document.getElementById("negro");
+button2.addEventListener("click", respuestaClick);
+function respuestaClick() {
+    console.log("Segunda respuesta");
+    alert("Seleccionaste la compra de cafe negro.")
+
+let button3 = document.getElementById("chocolate");
+button3.addEventListener("click", respuestaClick);
+function respuestaClick() {
+    console.log("Tercer respuesta");
+    alert("Seleccionaste la compra de cafe con chocolate.")
+}
+}
+}
