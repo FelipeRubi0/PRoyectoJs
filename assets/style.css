@@ -7,6 +7,12 @@
 body{
 background-color: rgb(52, 31, 214);
 }
+main{
+    
+    background-color: darkgray;
+    margin: 25px;
+    
+}
 
 .pie-de-pagina {
     width: 100%;

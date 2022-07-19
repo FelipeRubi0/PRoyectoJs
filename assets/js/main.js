@@ -1,3 +1,4 @@
+
 let eleccionProducto = NaN;
 
 
@@ -60,3 +61,19 @@ function respuestaClick() {
 }
 }
 }
+//Usando dom y sus clases
+let navbar = document.getElementsByClassName("navbar");
+console.log(navbar[0].innerHTML);
+console.log(navbar[1].innerHTML);
+console.log(navbar[2].innerHTML);
+console.log(navbar[3].innerHTML);
+
+//Utilizando local storage y guardando datos.
+localStorage.setItem("Bienvenidos", "En Blucafe, queremos que tengas la mejor experiencia.");
+
+let mensaje_local = localStorage.getItem("Bienvenidos");
+console.log(mensaje_local);
+
+//session storage: guardar datos
+sessionStorage.setItem("Acerca de nosotros", "En Blucafe, queremos que tengas la mejor experiencia.");
+
