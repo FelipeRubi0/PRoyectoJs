@@ -88,3 +88,31 @@ h2 {
 .grupo-2 small {
     font-size: 15px;
 }
+.car-img{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+.producto-carrito{
+    display:flex;
+    justify-content: space-between ;
+    align-items: center;
+    
+    
+}
+.product-detail{
+    font-weight: bold;
+}
+.total-carrito{
+    display: flex;
+    justify-content: center;
+}
+.total{
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.finalizar{
+    width: 20%;
+
+}
