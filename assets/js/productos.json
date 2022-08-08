@@ -1,0 +1,9 @@
+[
+  
+        {"id": 1,"nombre": "Latte", "precio": 400, "imagen": "../assets/img/cafeconleche.jpg"},
+        {"id": 2, "nombre": "Americano", "precio": 370, "imagen": "../assets/img/cafenegro.jpg"},
+        {"id": 3, "nombre": "Mocca Latte","precio": 450,"imagen": "../assets/img/cafeconchocolate.jpg"}
+    
+    
+    
+]
