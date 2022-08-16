@@ -1,8 +1,11 @@
 [
   
-        {"id": 1,"nombre": "Latte", "precio": 400, "imagen": "../assets/img/cafeconleche.jpg"},
-        {"id": 2, "nombre": "Americano", "precio": 370, "imagen": "../assets/img/cafenegro.jpg"},
-        {"id": 3, "nombre": "Mocca Latte","precio": 450,"imagen": "../assets/img/cafeconchocolate.jpg"}
+        {"id": 1,"nombre": "Latte", "precio": 400, "imagen": "../assets/img/Latte.png"},
+        {"id": 2, "nombre": "Americano", "precio": 370, "imagen": "../assets/img/Americano.png"},
+        {"id": 3, "nombre": "Mocca Latte","precio": 450,"imagen": "../assets/img/MoccaLatte.png"},
+        {"id": 4, "nombre": "Granola Con Frutas","precio": 650,"imagen": "../assets/img/Granola.png"},
+        {"id": 5, "nombre": "Toston Palta","precio": 750,"imagen": "../assets/img/TostonPalta.png"},
+        {"id": 6, "nombre": "Ensalada Verde","precio": 800,"imagen": "../assets/img/EnsaladaVerde.png"}
     
     
     
